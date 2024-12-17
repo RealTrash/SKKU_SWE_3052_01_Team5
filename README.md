@@ -3,21 +3,21 @@
 ## 코드 분류
 
 ### Baseline
-[Baseline]CAFE.ipynb
-[Baseline]EAC.ipynb
-[Baseline]MobileNet.ipynb
-[Baseline, Ours]Latent-OFER.ipynb
-[Baseline]KTN.ipynb
-[Baseline]FERVT.ipynb
-[Baseline]ViT.ipynb
+- [Baseline]CAFE.ipynb  
+- [Baseline]EAC.ipynb  
+- [Baseline]MobileNet.ipynb  
+- [Baseline, Ours]Latent-OFER.ipynb  
+- [Baseline]KTN.ipynb  
+- [Baseline]FERVT.ipynb  
+- [Baseline]ViT.ipynb  
 
 ### Ours
-[Ours]Depth_CAFE.ipynb
-[Ours]CLIP_FER.ipynb
-[Baseline, Ours]Latent-OFER.ipynb
-[Ours]FERVT-MS.ipynb
-[Ours]DynamicEAC.ipynb
-[Ours]AdaptiveFeatureFusion.ipynb
+- [Ours]Depth_CAFE.ipynb  
+- [Ours]CLIP_FER.ipynb  
+- [Baseline, Ours]Latent-OFER.ipynb  
+- [Ours]FERVT-MS.ipynb  
+- [Ours]DynamicEAC.ipynb  
+- [Ours]AdaptiveFeatureFusion.ipynb  
 
 ## 모델 성능 비교
 
